@@ -1,4 +1,3 @@
-```
 # QTI Open Source License v1.0
 
 ---
@@ -46,4 +45,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ---
 
 **For questions or additional permissions**, please contact [kohanmathersmcgonnell@gmail.com](mailto:kohanmathersmcgonnell@gmail.com).
-```
